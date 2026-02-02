@@ -44,6 +44,8 @@ user activity, engagement, and retention over time.
 
 \## Tech Stack
 
+\- Python : Synthtic data generation
+
 \- SQL: data exploration, aggregations, cohort logic
 
 \- Power BI (DAX): time-based metrics, comparisons, and ratios
