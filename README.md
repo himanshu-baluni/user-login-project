@@ -1,4 +1,4 @@
-\# User Activity Analytics (SQL + Power BI)
+\# User Activity Analytics (Python + SQL + Power BI)
 
 
 
