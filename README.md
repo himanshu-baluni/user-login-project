@@ -44,7 +44,7 @@ user activity, engagement, and retention over time.
 
 \## Tech Stack
 
-\- Python : Synthtic data generation
+\- Python : Synthetic data generation
 
 \- SQL: data exploration, aggregations, cohort logic
 
